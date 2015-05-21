@@ -13,6 +13,7 @@
   "author": "JP Richardson",
   "dependencies": {
     "bigi": "^1.2.0",
+    "buffer-xor": "^1.0.2",
     "coinstring": "^2.2.0",
     "ecurve": "^1.0.0",
     "scryptsy": "^1.2.0"
